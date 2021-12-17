@@ -14,4 +14,4 @@ After approximately 6 hours of training and running 32 minibatches, I managed to
 
 ![Results](results.gif)
 
-[A presentation of this StyleGAN2 project journey I embarked on](https://docs.google.com/presentation/d/e/2PACX-1vQwwAgrjzIH5O_MjHq28tdB2Hz2zTdd1NMEziP7hc-25hrO2Lf3742BKWJExebL81aGLjfRyM4kk-lJ/pub?start=false&loop=false&delayms=3000)
+[A presentation of this StyleGAN2 project journey I embarked on](https://docs.google.com/presentation/d/e/2PACX-1vQwwAgrjzIH5O_MjHq28tdB2Hz2zTdd1NMEziP7hc-25hrO2Lf3742BKWJExebL81aGLjfRyM4kk-lJ/pub?start=true&loop=true&delayms=3000)
