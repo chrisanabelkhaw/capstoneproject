@@ -1,5 +1,3 @@
-# capstoneproject
-
 ## Objective: To create new images using StyleGAN2 architecture  
 
 ## Training the model 
@@ -15,10 +13,7 @@ The upside of using StyleGAN2 x DiffAugment is that it allows for limited images
 After approximately 6 hours of training and running 32 minibatches, I managed to generate new images with a FID score of 200. FID score is a score used to measure the quality of images with a lower score indicating better quality images. 
 
 <p align="center">
-
-
-![Results](results.gif)
-
+    ![Results](results.gif)
 </p>
 
 
