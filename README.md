@@ -12,7 +12,6 @@ The upside of using StyleGAN2 x DiffAugment is that it allows for limited images
 ## Results 
 After approximately 6 hours of training and running 32 minibatches, I managed to generate new images with a FID score of 200. FID score is a score used to measure the quality of images with a lower score indicating better quality images. 
 
+![Results](results.gif)
 
-## A visual presentation of this StyleGAN2 project journey I embarked on 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwwAgrjzIH5O_MjHq28tdB2Hz2zTdd1NMEziP7hc-25hrO2Lf3742BKWJExebL81aGLjfRyM4kk-lJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[A presentation of this StyleGAN2 project journey I embarked on](https://docs.google.com/presentation/d/e/2PACX-1vQwwAgrjzIH5O_MjHq28tdB2Hz2zTdd1NMEziP7hc-25hrO2Lf3742BKWJExebL81aGLjfRyM4kk-lJ/pub?start=false&loop=false&delayms=3000)
