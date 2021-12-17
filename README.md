@@ -16,4 +16,8 @@ After approximately 6 hours of training and running 32 minibatches, I managed to
 
 ![Results](results.gif)
 
+## Link to Google Colab notebook 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JUho62_gwqbHdlCUlGbFh-7tBxMiGC18#scrollTo=HLYCnN36W73k]
+
 
