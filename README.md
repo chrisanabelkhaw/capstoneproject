@@ -3,7 +3,9 @@
 ## Training the model 
 I initially wanted to train the model from scratch, however, I faced some obstacles such as: many data/"images" required (to the tune of tens of thousands) and a long training time required (think a few days) with the premise that Google Colab's GPU would continue to work (which did not). 
 
-Hence, decided to adopt [StyleGAN2 x DiffAugment](https://github.com/mit-han-lab/data-efficient-gans/tree/master/DiffAugment-stylegan2)  which is an adaptation of StyleGAN2. 
+Hence, I decided to adopt [StyleGAN2 x DiffAugment](https://github.com/mit-han-lab/data-efficient-gans/tree/master/DiffAugment-stylegan2)  which is an adaptation of StyleGAN2. 
+
+[Developed by researchers at MIT, StyleGAN2 x DiffAugment improves the data efficiency of GANs by imposing various types of differntiable augmentations on both real and fake samples. This effectively stabilises training, and leads to better convergence.](https://hanlab.mit.edu/projects/data-efficient-gans/) 
 
 The upside of using StyleGAN2 x DiffAugment is that it allows for limited images (100 images) for the training of the model. With that, I leveraged on StyleGAN2 x DiffAugment model to train images that was scraped from Instagram. 
 
