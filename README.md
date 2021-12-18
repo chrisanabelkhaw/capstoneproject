@@ -9,7 +9,7 @@ Hence, I decided to adopt [StyleGAN2 x DiffAugment](https://github.com/mit-han-l
 
 The upside of using StyleGAN2 x DiffAugment is that it allows for limited images (100 images) for the training of the model. With that, I leveraged on StyleGAN2 x DiffAugment model to train images that was scraped from Instagram. 
 
-[Link to Google Colab](https://colab.research.google.com/gist/zsyzzsoft/5fbb71b9bf9a3217576bebae5de46fc2/data-efficient-gans.ipynb) is released! [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/chrisanabelkhaw/8a9c94ddf493fdfadca77786e16eec05/stylegan2-x-diffaugment.ipynb) 
+[Google Colab Notebook](https://colab.research.google.com/gist/zsyzzsoft/5fbb71b9bf9a3217576bebae5de46fc2/data-efficient-gans.ipynb) [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/chrisanabelkhaw/8a9c94ddf493fdfadca77786e16eec05/stylegan2-x-diffaugment.ipynb) 
 
 ## Results 
 [A presentation of this StyleGAN2 project journey I embarked on](https://docs.google.com/presentation/d/e/2PACX-1vQwwAgrjzIH5O_MjHq28tdB2Hz2zTdd1NMEziP7hc-25hrO2Lf3742BKWJExebL81aGLjfRyM4kk-lJ/pub?start=true&loop=true&delayms=3000)
